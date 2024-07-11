@@ -7,7 +7,7 @@ Then write a python flask server that uses the saved model to serve http request
 
 ## Technology and tools used;
 
-- Python
+- Python 
 - Numpy and Pandas for data cleaning
 - Matplotlib for data visualization
 - Sklearn for model building
