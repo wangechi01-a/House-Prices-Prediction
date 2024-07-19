@@ -9,7 +9,7 @@ Then write a python flask server that uses the saved model to serve http request
 
 - Python 
 - Numpy and Pandas for data cleaning
-- Matplotlib for data visualization 
+- Matplotlib ans seaborn for data visualization 
 - Sklearn for model building
 - Jupyter notebook, visual studio code and pycharm as IDE
 - Python flask for http server
